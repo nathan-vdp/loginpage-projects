@@ -58,5 +58,5 @@ The HTML file (index.html) includes the following key elements:
 ## Styling
 The page uses Tailwind CSS for styling, which is loaded from a CDN. It applies styles such as background images, text formatting, input field styling, and button styling to create an appealing and functional login interface.
 
-## Usage
-To see how this login page looks:
+## Preview
+To see how this login page looks: 
